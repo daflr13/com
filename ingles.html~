@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>actividad integradora</title>
+</heady>
+<body bgcolor="orange">
+<b><marquee behavior="alternate"><h1>	INGLES </h1> </marquee></b>
+<video src="../ingles/Video%20Publicitario%20de%20Productos%20Tecnol%C3%B3gicos%20Gradiente%20Lila%20y%20Blanco.mp4" autoplay controls loop width="80%" height="60%s"></video>
+   <table BORDER>
+       <tr>
+       <td COLSPAN="6">MATERIAS</td>
+       </tr>
+       <tr>
+       
+          <td>  <li><a href="index.html">INDEX</a></li></td>
+         <td>   <li><a href="huc.html">HISTORIA UNIVERSAL CONTEMPORANEA</a></li></td>
+        <td>    <li><a href="derecho.html">DERECHO</a></li></td>
+         <td>   <li><a href="filosofia.html">FILOSOFIA</a></li></td>
+        <td>    <li><a href="calculointegral.html">CALCULO INTEGRAL</a></li></td>
+        </ul>
+    </nav>
+</body>
+</html>
+<TABLE BORDER>
